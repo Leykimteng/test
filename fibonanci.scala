@@ -4,7 +4,7 @@ object fibonanci
     println("Enter The Number: ")
     var a=scala.io.StdIn.readInt()
     var b:Int=0 ; var c:Int= 1;var t:Int=0;
-    for(i<-1 to a)
+    while (a>=b)
     {
       println(b)
       b=b+c
