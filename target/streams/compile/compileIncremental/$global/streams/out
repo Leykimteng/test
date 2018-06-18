@@ -1,0 +1,49 @@
+[debug] Full compilation, no sources in previous analysis.
+[debug] All sources are invalidated.
+[debug] Recompiling all 8 sources: invalidated sources (8) exceeded 50.0% of all sources
+[info] Compiling 8 Scala sources to C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.1.3:compile for Scala 2.12.4
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.1.3:compile for Scala 2.12.4
+[debug] [zinc] Running cached compiler 16a323d for Scala compiler version 2.12.4
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Users\MSI\.sbt\boot\scala-2.12.4\lib\scala-library.jar
+[debug] 	-classpath
+[debug] 	C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes
+[debug] Scala compilation took 21.222083687 s
+[info] Done compiling.
+face-1.1.3.jar;C:\Users\MSI\AppData\Local\Temp\sbt_7fd600da\jars\org.scala-sbt\util-interface\util-interface-1.1.3.jar;C:\Users\MSI\AppData\Local\Temp\sbt_7fd600da\srcs\org.scala-sbt\compiler-bridge_2.12\compiler-bridge_2.12-1.1.3-sources.jar;C:\Users\MSI\.sbt\boot\scala-2.12.4\lib\scala-compiler.jar;C:\Users\MSI\.sbt\boot\scala-2.12.4\lib\jline.jar;C:\Users\MSI\.sbt\boot\scala-2.12.4\lib\scala-reflect.jar;C:\Users\MSI\.sbt\boot\scala-2.12.4\lib\scala-xml_2.12.jar
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\API.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\Analyzer.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\CallbackGlobal.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\ClassName.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\Command.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\Compat.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\CompilerInterface.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\ConsoleInterface.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\DelegatingReporter.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\Dependency.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\ExtractAPI.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\ExtractUsedNames.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\GlobalHelpers.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\InteractiveConsoleFactory.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\InteractiveConsoleHelper.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\InteractiveConsoleInterface.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\InteractiveConsoleResponse.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\JavaUtils.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\LocalToNonLocalClass.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\LocateClassFile.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\Log.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\Message.scala
+[debug] 	C:\Users\MSI\AppData\Local\Temp\sbt_f6faf5f7\xsbt\ScaladocInterface.scala
+[debug]       
+[info]   Compilation completed in 11.24s.
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.1.3:compile for Scala 2.12.4
+[debug] [zinc] Running cached compiler 3f7748c4 for Scala compiler version 2.12.4
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Users\MSI\.sbt\boot\scala-2.12.4\lib\scala-library.jar
+[debug] 	-classpath
+[debug] 	C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes
+[debug] Scala compilation took 22.048160733 s
+[info] Done compiling.

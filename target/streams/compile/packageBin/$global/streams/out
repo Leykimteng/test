@@ -1,0 +1,33 @@
+[info] Packaging C:\Users\MSI\Videos\a\as\test\target\scala-2.12\test_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	fibonanci.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\fibonanci.class
+[debug] 	asd.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\asd.class
+[debug] 	fibonanci$.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\fibonanci$.class
+[debug] 	q.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\q.class
+[debug] 	test.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\test.class
+[debug] 	q$.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\q$.class
+[debug] 	heyy$.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\heyy$.class
+[debug] 	heyy.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\heyy.class
+[debug] 	fun.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\fun.class
+[debug] 	fun$.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\fun$.class
+[debug] 	recursion$.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\recursion$.class
+[debug] 	testc.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\testc.class
+[debug] 	asd$.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\asd$.class
+[debug] 	recursion.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\recursion.class
+[debug] 	test$.class
+[debug] 	  C:\Users\MSI\Videos\a\as\test\target\scala-2.12\classes\test$.class
+[info] Done packaging.
