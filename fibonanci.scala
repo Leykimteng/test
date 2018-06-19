@@ -1,16 +1,19 @@
 object fibonanci
 {
+  def fib(a:Int) : Int = {
+    if(a == 0)
+        return 0
+    else if( a == 1)
+      return 1
+    else
+      return fib(a-1)+fib(a-2)
+  }
   def main(args: Array[String]): Unit = {
     println("Enter The Number: ")
     var a=scala.io.StdIn.readInt()
-    var b:Int=0 ; var c:Int= 1;var t:Int=0;
     for(i<-0 to a)
     {
-      println(b)
-      b=b+c
-      t=b
-      b=c
-      c=t
+      println(fib(a))
     }
   }
 }
